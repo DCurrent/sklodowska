@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitmodules" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="132162384783005796" remote="132162384780000000" Dst="2" />
+<file name="common_entry.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131762456895676353" remote="131762456890000000" Dst="2" />
+<file name="common_entry_list.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131762456896676993" remote="131762456890000000" Dst="2" />
+<file name="common_inspection.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131633750500571454" remote="131633714500000000" Dst="2" />
+<file name="common_list.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131762456898010469" remote="131762456890000000" Dst="2" />
+<file name="common_version_list.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131762456899179456" remote="131762456890000000" Dst="2" />
+<file name="config_common_entry.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131762456900010998" remote="131762456900000000" Dst="2" />
+<file name="config_common_entry_list.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131762456901175786" remote="131762456900000000" Dst="2" />
+<file name="config_common_entry_test.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131762456902176174" remote="131762456900000000" Dst="2" />
+<file name="index.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="132162450187061774" remote="132162450180000000" Dst="2" />
+<file name="index_public.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131817962938051329" remote="131817962930000000" Dst="2" />
+<file name="model_location.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131418448857153296" remote="131418448850000000" Dst="2" />
+<file name="observation_source_list.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131762456945918234" remote="131762456940000000" Dst="2" />
+<file name="observation_source_read.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131762456904667223" remote="131762456900000000" Dst="2" />
+<file name="observation_target_confirm.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131983646940251363" remote="131983646940000000" Dst="2" />
+<file name="observation_target_list.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131992187775472857" remote="131992187770000000" Dst="2" />
+<file name="observation_target_print.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="132103631626951675" remote="132103631620000000" Dst="2" />
+<file name="observation_target_read.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131983635272957283" remote="131983635270000000" Dst="2" />
+<file name="README.md" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="132162364118884773" remote="132162364110000000" Dst="2" />
+</dwsync>

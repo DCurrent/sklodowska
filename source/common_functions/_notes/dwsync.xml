@@ -8,4 +8,9 @@
 <file name="common_delete.php" server="//ehsweb.ad.uky.edu/ehs/apps/hero/" local="131633743412647900" remote="131633707410000000" Dst="2" />
 <file name="common_save.php" server="//ehsweb.ad.uky.edu/ehs/apps/hero/" local="131633750515320416" remote="131633714510000000" Dst="2" />
 <file name="common_security.php" server="//ehsweb.ad.uky.edu/ehs/apps/hero/" local="131631925678724799" remote="131631889670000000" Dst="2" />
+<file name="common_check_action.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131633703595010766" remote="131633667590000000" Dst="2" />
+<file name="common_delete.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131633743412647900" remote="131633707410000000" Dst="2" />
+<file name="common_list.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131418448861565025" remote="131418448860000000" Dst="2" />
+<file name="common_save.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131633750515320416" remote="131633714510000000" Dst="2" />
+<file name="common_security.php" server="//ehsweb.ad.uky.edu/ehs/apps/sklodowska/" local="131631925678724799" remote="131631889670000000" Dst="2" />
 </dwsync>
