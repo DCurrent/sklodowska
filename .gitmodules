@@ -2,3 +2,6 @@
 [submodule "source/dc/yukon"]
 	path = source/dc/yukon
 	url = https://github.com/DCurrent/Yukon
+[submodule "source/dc/chronofix"]
+	path = source/dc/chronofix
+	url = https://github.com/DCurrent/chronofix
